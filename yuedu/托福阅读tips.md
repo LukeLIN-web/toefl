@@ -22,9 +22,13 @@ office  44第三篇:    **Seagrasses grow together in dense patches, or beds, wi
 
 office  44第一篇: 关键词：these，说明插入句之前应该有指代对象，且为复数形式。
 
-基本上都是考指代对象, 找到指代对象. 主语是什么.
+基本上都是考代词, 指代对象, 找到指代对象. 主语是什么. 
 
 其实还有就是body也只有A选项前后都提到了body，其他选项前后都没说
+
+in fact是用来递进, 不是开头总结.
+
+The cheeping 说明前面有个主语了, 所以才有the.
 
 ### 推断题
 
