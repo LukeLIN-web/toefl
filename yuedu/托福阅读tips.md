@@ -18,6 +18,8 @@ Incorrect choices change the meaning in important ways or leave out essential in
 
 ### 句子插入题
 
+很难, 多练练.  先定位句子中的代词.  代词对比. 
+
 office  44第三篇:    **Seagrasses grow together in dense patches, or beds, with as many as 4,000 blades per square meter.**  在之前, 应该有sea grasses, 之后, 应该有海草床.   第四个空前面没有提到海草，后面虽然有since xxx也没有提到海草床，排除，所以第二个空最合适。
 
 office  44第一篇: 关键词：these，说明插入句之前应该有指代对象，且为复数形式。
@@ -27,6 +29,8 @@ office  44第一篇: 关键词：these，说明插入句之前应该有指代对
 其实还有就是body也只有A选项前后都提到了body，其他选项前后都没说
 
 in fact是用来递进, 不是开头总结.
+
+如果插入B选项的位置，那么插入句和后句是无法构成转折关系的，所以B选项不适合，要注意检验插入句和选项后句衔接是否通顺。
 
 The cheeping 说明前面有个主语了, 所以才有the.
 
@@ -44,7 +48,7 @@ why mention it? 为了 支持前面的观点句.  比如To help illustrate the p
 
 ### 最后一题文章概要
 
- 用排除法, 可能强加因果,无中生有.
+ 用排除法, 可能强加因果,无中生有. 无中生有的可以首先排除. 
 
 还是看快一些,然后 每个定位找一找最稳定. 
 
