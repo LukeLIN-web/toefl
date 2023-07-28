@@ -8,13 +8,9 @@
 
 ### 句子highlighted题
 
-Incorrect choices change the meaning in important ways or leave out essential information.
+Incorrect choices change the meaning in important ways or leave out essential information. 可能把重要的动词, 主动改成了被动, 遗漏了重要信息.可能偷换主语. 
 
-对于长难句, 分析主干.  
-
-可能把重要的动词, 主动改成了被动, 遗漏了重要信息.可能偷换主语. 
-
-破折号之内的插入部分可以忽略不看，因为不是主要逻辑。
+对于长难句, 分析主干.   破折号之内的插入部分可以忽略不看，因为不是主要逻辑。
 
 ### 句子插入题
 
