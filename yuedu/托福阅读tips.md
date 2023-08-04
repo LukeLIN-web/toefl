@@ -30,6 +30,12 @@ in fact是用来递进, 不是开头总结.
 
 The cheeping 说明前面有个主语了, 所以才有the.
 
+#### 指代题
+
+The phrase **“this remarkable change”** in the passage refers to  看前面的句子 有提示
+
+official 20  Thanks to new environmental and archaeological discoveries, we now know something about **this remarkable change in local life.**   所以就不是 warming at the end of the Ice Age.  
+
 ### 推断题
 
 定位题干, 前一句可能就是原因.
@@ -38,9 +44,9 @@ The cheeping 说明前面有个主语了, 所以才有the.
 
 ### 修辞目的题
 
-问例子找目的（往前找），跳过平行例子，先找直接目的，再找根本目的
+问例子找目的 (往前找)，跳过平行例子，先找直接目的，再找根本目的
 
-why mention it? 为了 支持前面的观点句.  比如To help illustrate the potential of phytoremediation
+why mention it? 为了支持前面的观点句.  比如To help illustrate the potential of phytoremediation
 
 ### 最后一题文章概要
 
