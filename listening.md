@@ -14,9 +14,7 @@
 
 #### 提示词
 
-这些词后面就容易考
-
-keep in mind, but, 
+这些词后面就容易考 :  keep in mind, but, 
 
 I will explore xx 这种会跟主题句.容易考
 
